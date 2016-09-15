@@ -97,6 +97,10 @@ function is_bot($sistema){
         , 'libwww-perl'
         , 'rogerbot-crawler'
         , 'MegaIndex.ru'
+		, 'ltx71'
+		, 'Qwantify'
+		, 'Traackr.com'
+		, 'Re-Animator Bot'
         );
  
  // si lo encuentra devuelve true, si no, false
