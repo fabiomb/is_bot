@@ -101,6 +101,11 @@ function is_bot($sistema){
 		, 'Qwantify'
 		, 'Traackr.com'
 		, 'Re-Animator Bot'
+        , 'Pcore-HTTP'
+        , 'BoardReader'
+        , 'omgili'
+        , 'okhttp'
+
         );
  
  // si lo encuentra devuelve true, si no, false
