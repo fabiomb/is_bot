@@ -3,21 +3,21 @@
 function is_bot($sistema){
  // bots de buscadores
     $bots = array(
-        'Googlebot', 
-        'Baiduspider', 
+        'Googlebot',
+        'Baiduspider',
         'ia_archiver',
-        'R6_FeedFetcher', 
-        'NetcraftSurveyAgent', 
+        'R6_FeedFetcher',
+        'NetcraftSurveyAgent',
         'Sogou web spider',
-        'bingbot', 
-        'Yahoo! Slurp', 
-        'facebookexternalhit', 
+        'bingbot',
+        'Yahoo! Slurp',
+        'facebookexternalhit',
         'PrintfulBot',
-        'msnbot', 
-        'Twitterbot', 
-        'UnwindFetchor', 
-        'urlresolver', 
-        'Butterfly', 
+        'msnbot',
+        'Twitterbot',
+        'UnwindFetchor',
+        'urlresolver',
+        'Butterfly',
         'TweetmemeBot',
         'PaperLiBot',
         'MJ12bot',
@@ -62,10 +62,10 @@ function is_bot($sistema){
         , 'Niki-Bot'
         , 'Pinterest'
         , 'python-requests'
-        , 'DotBot'        
+        , 'DotBot'
         , 'HTTP_Request2'
         , 'linkdexbot'
-        , 'A6-Indexer'   
+        , 'A6-Indexer'
         , 'Baiduspider'
         , 'TwitterFeed'
         , 'Microsoft Office'
@@ -97,17 +97,33 @@ function is_bot($sistema){
         , 'libwww-perl'
         , 'rogerbot-crawler'
         , 'MegaIndex.ru'
-		, 'ltx71'
-		, 'Qwantify'
-		, 'Traackr.com'
-		, 'Re-Animator Bot'
+    		, 'ltx71'
+    		, 'Qwantify'
+    		, 'Traackr.com'
+    		, 'Re-Animator Bot'
         , 'Pcore-HTTP'
         , 'BoardReader'
         , 'omgili'
         , 'okhttp'
-
+        , 'CCBot'
+        , 'Java/1.8'
+        , 'semrush.com'
+        , 'feedbot'
+        , 'CommonCrawler'
+        , 'AdlesseBot'
+        , 'MetaURI'
+        , 'ibwww-perl'
+        , 'rogerbot'
+        , 'MegaIndex'
+        , 'BLEXBot'
+        , 'FlipboardProxy'
+        , 'techinfo@ubermetrics-technologies.com'
+        , 'trendictionbot'
+        , 'Mediatoolkitbot'
+        , 'trendiction'
+        , 'ubermetrics'
         );
- 
+
  // si lo encuentra devuelve true, si no, false
     foreach($bots as $b)
         {
