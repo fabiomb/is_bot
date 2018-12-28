@@ -140,6 +140,8 @@ function is_bot($sistema){
         , 'The Knowledge AI'
         , 'getstream.io/winds'
         , 'YisouSpider'
+        , 'archive.org_bot'
+        , 'semantic-visions.com'
         );
 
  // si lo encuentra devuelve true, si no, false
