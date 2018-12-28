@@ -142,6 +142,7 @@ function is_bot($sistema){
         , 'YisouSpider'
         , 'archive.org_bot'
         , 'semantic-visions.com'
+        , 'FemtosearchBot'
         );
 
  // si lo encuentra devuelve true, si no, false

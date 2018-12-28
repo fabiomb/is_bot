@@ -12,6 +12,7 @@ Update 2018-12-27
 
 semantic-visions.com
 archive.org_bot
+FemtosearchBot
 
 
 Update 2018-11-27
