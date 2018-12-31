@@ -143,6 +143,13 @@ function is_bot($sistema){
         , 'archive.org_bot'
         , 'semantic-visions.com'
         , 'FemtosearchBot'
+        , '360Spider'
+        , 'linkfluence.com'
+        , 'glutenfreepleasure.com'
+        , 'Gluten Free Crawler'
+        , 'YaK/1.0'
+        , 'Cliqzbot'
+        , 'app.hypefactors.com'
         );
 
  // si lo encuentra devuelve true, si no, false
