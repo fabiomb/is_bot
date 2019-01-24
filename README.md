@@ -9,6 +9,13 @@ use $_SERVER['HTTP_USER_AGENT'];
 
 
 ################################
+Update 2019-01-24
+
+axios/0.17.0
+semantic-visions.com crawler;
+webdatastats.com
+compatible; U; AnyEvent-HTTP/2.24; +http://software.schmorp.de/pkg/AnyEvent
+
 Update 2018-12-31
 
 360Spider

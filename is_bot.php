@@ -150,6 +150,11 @@ function is_bot($sistema){
         , 'YaK/1.0'
         , 'Cliqzbot'
         , 'app.hypefactors.com'
+        , 'axios'
+        , 'semantic-visions.com'
+        , 'webdatastats.com'
+        , 'schmorp.de'
+
         );
 
  // si lo encuentra devuelve true, si no, false
