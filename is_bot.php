@@ -154,7 +154,7 @@ function is_bot($sistema){
         , 'semantic-visions.com'
         , 'webdatastats.com'
         , 'schmorp.de'
-
+        , 'SEOkicks'
         );
 
  // si lo encuentra devuelve true, si no, false
