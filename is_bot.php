@@ -156,6 +156,7 @@ function is_bot($sistema){
         , 'schmorp.de'
         , 'SEOkicks'
         , 'DuckDuckBot'
+        , 'Barkrowler'
         );
 
  // si lo encuentra devuelve true, si no, false
