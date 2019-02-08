@@ -9,12 +9,20 @@ use $_SERVER['HTTP_USER_AGENT'];
 
 
 ################################
+
+Update 2019-02-08
+
+Seokicks 
+barkrowler
+DuckDuckBot
+(thanks RaphaelWimmer)
+
 Update 2019-01-24
 
 axios/0.17.0
 semantic-visions.com crawler;
 webdatastats.com
-compatible; U; AnyEvent-HTTP/2.24; +http://software.schmorp.de/pkg/AnyEvent
+AnyEvent-HTTP/2.24;
 
 Update 2018-12-31
 
