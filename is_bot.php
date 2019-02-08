@@ -155,6 +155,7 @@ function is_bot($sistema){
         , 'webdatastats.com'
         , 'schmorp.de'
         , 'SEOkicks'
+        , 'DuckDuckBot'
         , 'Barkrowler'
         );
 
