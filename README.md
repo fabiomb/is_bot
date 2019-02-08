@@ -12,6 +12,7 @@ use $_SERVER['HTTP_USER_AGENT'];
 
 Update 2019-02-08
 
+ZoominfoBot
 Seokicks 
 barkrowler
 DuckDuckBot
