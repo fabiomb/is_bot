@@ -157,6 +157,7 @@ function is_bot($sistema){
         , 'SEOkicks'
         , 'DuckDuckBot'
         , 'Barkrowler'
+        , 'ZoominfoBot'
         );
 
  // si lo encuentra devuelve true, si no, false
