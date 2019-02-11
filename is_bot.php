@@ -158,7 +158,8 @@ function is_bot($sistema){
         , 'DuckDuckBot'
         , 'Barkrowler'
         , 'ZoominfoBot'
-        , 'Linguee Bot' 
+        , 'Linguee Bot'
+        , 'Mail.RU_Bot'
         );
 
  // si lo encuentra devuelve true, si no, false
