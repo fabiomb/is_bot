@@ -154,7 +154,11 @@ function is_bot($sistema){
         , 'semantic-visions.com'
         , 'webdatastats.com'
         , 'schmorp.de'
-        , 'Linguee Bot'
+        , 'SEOkicks'
+        , 'DuckDuckBot'
+        , 'Barkrowler'
+        , 'ZoominfoBot'
+        , 'Linguee Bot' 
         );
 
  // si lo encuentra devuelve true, si no, false
