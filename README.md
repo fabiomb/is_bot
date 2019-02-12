@@ -10,10 +10,18 @@ use $_SERVER['HTTP_USER_AGENT'];
 
 ################################
 
+Update 2019-02-12
+
+OnalyticaBot
+Linguee Bot
+admantx-adform
+Buck/2.2
+Barkrowler
+
 Update 2019-02-08
 
 ZoominfoBot
-Seokicks 
+Seokicks
 barkrowler
 DuckDuckBot
 (thanks RaphaelWimmer)

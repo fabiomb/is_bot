@@ -160,6 +160,12 @@ function is_bot($sistema){
         , 'ZoominfoBot'
         , 'Linguee Bot'
         , 'Mail.RU_Bot'
+        , 'OnalyticaBot'
+        , 'Linguee Bot'
+        , 'admantx-adform'
+        , 'Buck/2.2'
+        , 'Barkrowler'
+
         );
 
  // si lo encuentra devuelve true, si no, false
