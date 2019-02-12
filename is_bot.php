@@ -3,7 +3,7 @@
 function is_bot($sistema){
  // bots de buscadores
     $bots = array(
-        , 'Googlebot'
+         'Googlebot'
         , 'Baiduspider'
         , 'ia_archiver'
         , 'R6_FeedFetcher'
