@@ -165,6 +165,7 @@ function is_bot($sistema){
         , 'admantx-adform'
         , 'Buck/2.2'
         , 'Barkrowler'
+        , 'Zombiebot'
 
         );
 
