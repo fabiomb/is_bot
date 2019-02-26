@@ -167,6 +167,7 @@ function is_bot($sistema){
         , 'Barkrowler'
         , 'Zombiebot'
         , 'Nutch'
+        , 'SemanticScholarBot'
 
         );
 
