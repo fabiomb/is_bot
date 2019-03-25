@@ -169,7 +169,9 @@ function is_bot($sistema){
         , 'Nutch'
         , 'SemanticScholarBot'
         , 'Jetslide'
-
+        , 'scalaj-http'
+        , 'XoviBot'
+        , 'sysomos.com'
         );
 
  // si lo encuentra devuelve true, si no, false

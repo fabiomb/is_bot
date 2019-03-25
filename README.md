@@ -10,6 +10,13 @@ use $_SERVER['HTTP_USER_AGENT'];
 
 ################################
 
+Update 2019-03-25
+
+scalaj-http
+XoviBot
+sysomos.com
+Jetslide
+
 Update 2019-02-12
 
 OnalyticaBot
