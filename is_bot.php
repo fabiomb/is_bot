@@ -172,6 +172,8 @@ function is_bot($sistema){
         , 'scalaj-http'
         , 'XoviBot'
         , 'sysomos.com'
+        , 'PocketParser'
+        , 'newspaper'
         );
 
  // si lo encuentra devuelve true, si no, false

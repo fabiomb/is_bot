@@ -10,6 +10,11 @@ use $_SERVER['HTTP_USER_AGENT'];
 
 ################################
 
+Update 2019-05-21
+
+PocketParser
+newspaper
+
 Update 2019-03-25
 
 scalaj-http
