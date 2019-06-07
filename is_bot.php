@@ -174,6 +174,7 @@ function is_bot($sistema){
         , 'sysomos.com'
         , 'PocketParser'
         , 'newspaper'
+        , 'serpstatbot'
         );
 
  // si lo encuentra devuelve true, si no, false

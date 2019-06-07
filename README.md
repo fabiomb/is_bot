@@ -10,6 +10,10 @@ use $_SERVER['HTTP_USER_AGENT'];
 
 ################################
 
+Update 2019-06-07
+
+serpstatbot
+
 Update 2019-05-21
 
 PocketParser
