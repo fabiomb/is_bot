@@ -175,6 +175,15 @@ function is_bot($sistema){
         , 'PocketParser'
         , 'newspaper'
         , 'serpstatbot'
+        , 'MetaJobBot'
+        , 'SeznamBot/3.2'
+        , 'VelenPublicWebCrawler/1.0'
+        , 'WordPress.com mShots'
+        , 'adscanner'
+        , 'BacklinkCrawler'
+        , 'netEstate NE Crawler'
+        , 'Astute SRM'
+        , 'GigablastOpenSource/1.0'
         );
 
  // si lo encuentra devuelve true, si no, false
