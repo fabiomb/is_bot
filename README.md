@@ -10,6 +10,20 @@ use $_SERVER['HTTP_USER_AGENT'];
 
 ################################
 
+
+Update 2019-06-19
+
+DomainStatsBot
+SeznamBot/3.2
+VelenPublicWebCrawler/1.0
+WordPress.com mShots
+adscanner
+BacklinkCrawler
+netEstate NE Crawler
+Astute SRM
+GigablastOpenSource/1.0
+
+
 Update 2019-06-07
 
 serpstatbot

@@ -184,6 +184,7 @@ function is_bot($sistema){
         , 'netEstate NE Crawler'
         , 'Astute SRM'
         , 'GigablastOpenSource/1.0'
+        , 'DomainStatsBot'
         );
 
  // si lo encuentra devuelve true, si no, false
