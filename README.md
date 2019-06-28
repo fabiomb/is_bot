@@ -3,12 +3,19 @@ is_bot
 
 Simple PHP function to detect search engines bots
 
-it compares the PHP User Agent with a list of common spiders from search engines
+it compares the PHP User Agent with a list of common spiders from search engines, more than 180 bots, spiders and crawlers
 
 use $_SERVER['HTTP_USER_AGENT'];
 
 
 ################################
+
+Update 2019-06-28
+
+Winds: Open Source RSS & Podcast
+dlvr.it
+BehloolBot
+7Siters
 
 
 Update 2019-06-19

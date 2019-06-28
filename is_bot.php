@@ -185,6 +185,12 @@ function is_bot($sistema){
         , 'Astute SRM'
         , 'GigablastOpenSource/1.0'
         , 'DomainStatsBot'
+        , 'Winds: Open Source RSS & Podcast'
+        , 'dlvr.it'
+        , 'BehloolBot'
+        , '7Siters'
+
+
         );
 
  // si lo encuentra devuelve true, si no, false
