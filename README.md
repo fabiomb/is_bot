@@ -10,6 +10,13 @@ use $_SERVER['HTTP_USER_AGENT'];
 
 ################################
 
+Update 2019-10-21
+
+AwarioSmartBot
+Apache-HttpClient/5
+
+
+
 Update 2019-06-28
 
 Winds: Open Source RSS & Podcast

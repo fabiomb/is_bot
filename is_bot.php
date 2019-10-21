@@ -189,6 +189,8 @@ function is_bot($sistema){
         , 'dlvr.it'
         , 'BehloolBot'
         , '7Siters'
+        , 'AwarioSmartBot'
+        , 'Apache-HttpClient/5'
 
 
         );
