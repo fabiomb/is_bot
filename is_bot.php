@@ -191,7 +191,7 @@ function is_bot($sistema){
         , '7Siters'
         , 'AwarioSmartBot'
         , 'Apache-HttpClient/5'
-
+        , 'Seekport Crawler'
 
         );
 

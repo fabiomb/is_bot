@@ -10,6 +10,11 @@ use $_SERVER['HTTP_USER_AGENT'];
 
 ################################
 
+Update 2019-12-17
+
+Added Seekport Crawler
+
+
 Update 2019-10-21
 
 AwarioSmartBot
