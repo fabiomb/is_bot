@@ -192,6 +192,20 @@ function is_bot($sistema){
         , 'AwarioSmartBot'
         , 'Apache-HttpClient/5'
         , 'Seekport Crawler'
+        , 'AHC/2.1'
+        , 'eCairn-Grabber'
+        , 'mediawords bot'
+        , 'PHP-Curl-Class'
+        , 'Scrapy'
+        , 'curl/7'
+        , 'Blackboard'
+        , 'NetNewsWire'
+        , 'node-fetch'
+        , 'admantx'
+        , 'metadataparser'
+
+
+
 
         );
 

@@ -10,6 +10,21 @@ use $_SERVER['HTTP_USER_AGENT'];
 
 ################################
 
+Update 2020-04-01
+
+AHC/2.1
+eCairn-Grabber
+mediawords bot
+PHP-Curl-Class
+Scrapy
+curl/7
+Blackboard
+NetNewsWire
+node-fetch
+admantx
+metadataparser
+
+
 Update 2019-12-17
 
 Added Seekport Crawler
