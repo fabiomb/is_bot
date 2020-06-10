@@ -203,7 +203,10 @@ function is_bot($sistema){
         , 'node-fetch'
         , 'admantx'
         , 'metadataparser'
-
+        , 'Domains Project'
+        , 'SerendeputyBot'
+        , 'Moreover'
+        , 'DuckDuckGo' 
 
 
 
