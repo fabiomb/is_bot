@@ -10,6 +10,14 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+### Update 2020-07-28
+
+* check_http/v2.2 (monitoring-plugins 2.2)
+* Selfoss/2.18 (+https://selfoss.aditu.de)
+* Mozilla/5.0 (compatible; Adsbot/3.1)
+
+
+
 ### Update 2020-06-10
 
 * Domains Project

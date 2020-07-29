@@ -207,9 +207,9 @@ function is_bot($sistema){
         , 'SerendeputyBot'
         , 'Moreover'
         , 'DuckDuckGo' 
-
-
-
+        , 'monitoring-plugins'
+        , 'Selfoss'
+        , 'Adsbot'
         );
 
  // si lo encuentra devuelve true, si no, false
