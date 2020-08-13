@@ -10,13 +10,18 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+
+### Update 2020-08-13
+
+
+* acebookexternalhit/1.0 (+http://www.facebook.com/externalhit_uatext.php)
+* SpiderLing (a SPIDER for LINGustic research); +http://nlp.fi.muni.cz/projects/biwec/
+
 ### Update 2020-07-28
 
 * check_http/v2.2 (monitoring-plugins 2.2)
 * Selfoss/2.18 (+https://selfoss.aditu.de)
 * Mozilla/5.0 (compatible; Adsbot/3.1)
-
-
 
 ### Update 2020-06-10
 

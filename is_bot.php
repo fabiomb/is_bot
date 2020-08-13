@@ -210,6 +210,8 @@ function is_bot($sistema){
         , 'monitoring-plugins'
         , 'Selfoss'
         , 'Adsbot'
+        , 'acebookexternalhit'
+        , 'SpiderLing'
         );
 
  // si lo encuentra devuelve true, si no, false
