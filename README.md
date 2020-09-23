@@ -11,8 +11,12 @@ Using this server variable is not enough to block spambots and other kind of tra
 * * *
 
 
-### Update 2020-08-13
+### Update 2020-09-23
 
+* SerendeputyBot/0.8.6 (http://serendeputy.com/about/serendeputy-bot)
+* Cocolyzebot/1.0; https://cocolyze.com/bot
+
+### Update 2020-08-13
 
 * acebookexternalhit/1.0 (+http://www.facebook.com/externalhit_uatext.php)
 * SpiderLing (a SPIDER for LINGustic research); +http://nlp.fi.muni.cz/projects/biwec/

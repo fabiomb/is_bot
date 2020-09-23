@@ -212,6 +212,8 @@ function is_bot($sistema){
         , 'Adsbot'
         , 'acebookexternalhit'
         , 'SpiderLing'
+        , 'SerendeputyBot'
+        , 'Cocolyzebot'        
         );
 
  // si lo encuentra devuelve true, si no, false
