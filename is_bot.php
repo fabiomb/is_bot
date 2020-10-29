@@ -97,10 +97,10 @@ function is_bot($sistema){
         , 'libwww-perl'
         , 'rogerbot-crawler'
         , 'MegaIndex.ru'
-    		, 'ltx71'
-    		, 'Qwantify'
-    		, 'Traackr.com'
-    		, 'Re-Animator Bot'
+        , 'ltx71'
+        , 'Qwantify'
+        , 'Traackr.com'
+        , 'Re-Animator Bot'
         , 'Pcore-HTTP'
         , 'BoardReader'
         , 'omgili'
@@ -213,7 +213,10 @@ function is_bot($sistema){
         , 'acebookexternalhit'
         , 'SpiderLing'
         , 'SerendeputyBot'
-        , 'Cocolyzebot'        
+        , 'Cocolyzebot'
+        , 'AhrefsBot'
+        , 'TTD-Content'
+        , 'superfeedr'
         );
 
  // si lo encuentra devuelve true, si no, false

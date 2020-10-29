@@ -10,6 +10,11 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+### Update 2020-10-29
+
+* Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)"
+* Mozilla/5.0 (compatible; TTD-Content; +https://www.thetradedesk.com/general/ttd-content)
+* Superfeedr bot/2.0 http://superfeedr.com - Checking HTML reverse link.
 
 ### Update 2020-09-23
 
