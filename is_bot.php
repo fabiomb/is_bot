@@ -212,14 +212,12 @@ function is_bot($sistema){
         , 'Adsbot'
         , 'acebookexternalhit'
         , 'SpiderLing'
-        , 'SerendeputyBot'
         , 'Cocolyzebot'
         , 'AhrefsBot'
         , 'TTD-Content'
         , 'superfeedr'
         , 'Twingly'
         , 'Google-Apps-Scrip'
-        , 'SerendeputyBot'
         , 'LinkpadBot'
         );
 
