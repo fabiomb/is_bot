@@ -217,6 +217,10 @@ function is_bot($sistema){
         , 'AhrefsBot'
         , 'TTD-Content'
         , 'superfeedr'
+        , 'Twingly'
+        , 'Google-Apps-Scrip'
+        , 'SerendeputyBot'
+        , 'LinkpadBot'
         );
 
  // si lo encuentra devuelve true, si no, false

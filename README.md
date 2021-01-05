@@ -10,6 +10,13 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+### Update 2021-01-05 Happy New Year
+
+* Twingly Recon-Klondike/1.0 (+https://developer.twingly.com)
+* Mozilla/5.0 (compatible; Google-Apps-Script; beanserver; +https://script.google.com; id: UAEmdDd824zcSIvptez-dRAaFIs3vGDfB8Q)
+* SerendeputyBot/0.8.6 (http://serendeputy.com/about/serendeputy-bot)
+* Mozilla/5.0 (compatible; LinkpadBot/2.3; +http://linkpad.org/robot/)
+
 ### Update 2020-10-29
 
 * Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)"
