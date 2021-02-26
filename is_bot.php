@@ -219,6 +219,8 @@ function is_bot($sistema){
         , 'Twingly'
         , 'Google-Apps-Scrip'
         , 'LinkpadBot'
+        , 'CensysInspect'
+        , 'Reeder'
         );
 
  // si lo encuentra devuelve true, si no, false

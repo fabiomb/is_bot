@@ -10,6 +10,11 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+### Update 2021-02-26 
+
+* CensysInspect/1.1; (+https://about.censys.io/)
+* Reeder/4020.89.01
+
 ### Update 2021-01-05 Happy New Year
 
 * Twingly Recon-Klondike/1.0 (+https://developer.twingly.com)
