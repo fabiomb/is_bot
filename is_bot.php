@@ -221,6 +221,9 @@ function is_bot($sistema){
         , 'LinkpadBot'
         , 'CensysInspect'
         , 'Reeder'
+        , 'tweetedtimes'
+        , 'Amazonbot'
+        , 'MauiBot'
         );
 
  // si lo encuentra devuelve true, si no, false

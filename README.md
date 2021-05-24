@@ -10,6 +10,12 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+### Update 2021-05-24
+
+* Mozilla/5.0 (compatible; +http://tweetedtimes.com)
+* Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot
+* MauiBot (crawler.feedback+wc@gmail.com)
+
 ### Update 2021-02-26 
 
 * CensysInspect/1.1; (+https://about.censys.io/)
