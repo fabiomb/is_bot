@@ -224,6 +224,9 @@ function is_bot($sistema){
         , 'tweetedtimes'
         , 'Amazonbot'
         , 'MauiBot'
+        , 'Symfony BrowserKit'
+        , 'DataForSeoBot'
+
         );
 
  // si lo encuentra devuelve true, si no, false

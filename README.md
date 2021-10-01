@@ -10,6 +10,11 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+### Update 2021-10-01
+
+* Symfony BrowserKit
+* DataForSeoBot
+
 ### Update 2021-05-24
 
 * Mozilla/5.0 (compatible; +http://tweetedtimes.com)
