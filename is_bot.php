@@ -226,7 +226,12 @@ function is_bot($sistema){
         , 'MauiBot'
         , 'Symfony BrowserKit'
         , 'DataForSeoBot'
-
+        , 'GoogleProducer'
+        , 'TinEye-bot-live'
+        , 'sindresorhus/got'
+        , 'CriteoBot'
+        , 'Down/5'
+        , 'Yahoo Ad monitoring'
         );
 
  // si lo encuentra devuelve true, si no, false
