@@ -232,6 +232,8 @@ function is_bot($sistema){
         , 'CriteoBot'
         , 'Down/5'
         , 'Yahoo Ad monitoring'
+        , 'MetaInspector'
+        , 'PetalBot'
         );
 
  // si lo encuentra devuelve true, si no, false
