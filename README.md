@@ -12,15 +12,15 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 ### Update 2022-04-05
 
-* CriteoBot
+* CriteoBot (+https://www.criteo.com/criteo-crawler/)
 * aiohttp
-* AppEngine-Google
-* heritrix
-* sqlmap
-* Buck
+* AppEngine-Google (+http://code.google.com/appengine; appid: s~snapchat-proxy)
+* heritrix (heritrix/3.3.0-SNAPSHOT-20150302-2206)
+* sqlmap (https://sqlmap.org)
+* Buck (https://app.hypefactors.com)
 * MJ12bot
 * wp_is_mobile
-* SerendeputyBot
+* SerendeputyBot (http://serendeputy.com/about/serendeputy-bot)
 * MetaInspector
 * PetalBot
 
