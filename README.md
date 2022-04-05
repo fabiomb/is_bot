@@ -12,26 +12,26 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 ### Update 2022-04-05
 
-CriteoBot
-aiohttp
-AppEngine-Google
-heritrix
-sqlmap
-Buck
-MJ12bot
-wp_is_mobile
-SerendeputyBot
-MetaInspector
-PetalBot
+* CriteoBot
+* aiohttp
+* AppEngine-Google
+* heritrix
+* sqlmap
+* Buck
+* MJ12bot
+* wp_is_mobile
+* SerendeputyBot
+* MetaInspector
+* PetalBot
 
 
 ### Update 2021-11-20
-GoogleProducer; (+http://goo.gl/7y4SX)
-TinEye-bot-live; +http://www.tineye.com/crawler.html)
-got (https://github.com/sindresorhus/got)
-CriteoBot/0.1 (+https://www.criteo.com/criteo-crawler/)
-Down/5.2.3
-Yahoo Ad monitoring; https://help.yahoo.com/kb/yahoo-ad-monitoring-SLN24857.html
+* GoogleProducer; (+http://goo.gl/7y4SX)
+* TinEye-bot-live; +http://www.tineye.com/crawler.html)
+* got (https://github.com/sindresorhus/got)
+* CriteoBot/0.1 (+https://www.criteo.com/criteo-crawler/)
+* Down/5.2.3
+* Yahoo Ad monitoring; https://help.yahoo.com/kb/yahoo-ad-monitoring-SLN24857.html
 
 ### Update 2021-10-01
 
