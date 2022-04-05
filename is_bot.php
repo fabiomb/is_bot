@@ -234,6 +234,8 @@ function is_bot($sistema){
         , 'Yahoo Ad monitoring'
         , 'MetaInspector'
         , 'PetalBot'
+        , 'MetadataScraper'
+        , 'Cloudflare SpeedTest'
         );
 
  // si lo encuentra devuelve true, si no, false
