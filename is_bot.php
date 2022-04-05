@@ -236,6 +236,16 @@ function is_bot($sistema){
         , 'PetalBot'
         , 'MetadataScraper'
         , 'Cloudflare SpeedTest'
+        , 'CriteoBot'
+        , 'aiohttp'
+        , 'AppEngine-Google'
+        , 'heritrix'
+        , 'sqlmap'
+        , 'Buck'
+        , 'MJ12bot'
+        , 'wp_is_mobile'
+        , 'SerendeputyBot'
+
         );
 
  // si lo encuentra devuelve true, si no, false

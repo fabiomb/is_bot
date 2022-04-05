@@ -9,6 +9,22 @@ use $_SERVER['HTTP_USER_AGENT'];
 Using this server variable is not enough to block spambots and other kind of traffic, is just for clearly defined user agents
 
 * * *
+
+### Update 2022-04-05
+
+CriteoBot
+aiohttp
+AppEngine-Google
+heritrix
+sqlmap
+Buck
+MJ12bot
+wp_is_mobile
+SerendeputyBot
+MetaInspector
+PetalBot
+
+
 ### Update 2021-11-20
 GoogleProducer; (+http://goo.gl/7y4SX)
 TinEye-bot-live; +http://www.tineye.com/crawler.html)
