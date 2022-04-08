@@ -10,6 +10,19 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+## Update 2022-04-08
+
+* 01h4x.com
+* 404checker
+* 404enemy
+* AIBOT
+* ALittle Client
+* ASPSeek
+* Aboundex
+* Acunetix
+* AfD-Verbotsverfahren
+* AiHitBot
+
 ### Update 2022-04-05
 
 * CriteoBot (+https://www.criteo.com/criteo-crawler/)
@@ -23,7 +36,6 @@ Using this server variable is not enough to block spambots and other kind of tra
 * SerendeputyBot (http://serendeputy.com/about/serendeputy-bot)
 * MetaInspector
 * PetalBot
-
 
 ### Update 2021-11-20
 * GoogleProducer; (+http://goo.gl/7y4SX)

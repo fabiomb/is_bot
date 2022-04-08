@@ -46,7 +46,7 @@ function is_bot($sistema){
         , 'SMXCrawler'
         , 'PulseCrawler'
         , 'Y!J-BRW'
-        , '80legs.com/webcrawler'
+        , '80legs'
         , 'Mediapartners-Google'
         , 'Spinn3r'
         , 'InAGist'
@@ -58,7 +58,7 @@ function is_bot($sistema){
         , 'spbot'
         , 'Feedly'
         , 'bitlybot'
-        , 'ADmantX Platform'
+        , 'ADmantX'
         , 'Niki-Bot'
         , 'Pinterest'
         , 'python-requests'
@@ -245,6 +245,18 @@ function is_bot($sistema){
         , 'MJ12bot'
         , 'wp_is_mobile'
         , 'SerendeputyBot'
+
+
+        , '01h4x.com'
+        , '404checker'
+        , '404enemy'
+        , 'AIBOT'
+        , 'ALittle Client'
+        , 'ASPSeek'
+        , 'Aboundex'
+        , 'Acunetix'
+        , 'AfD-Verbotsverfahren'
+        , 'AiHitBot'        
 
         );
 
