@@ -245,8 +245,6 @@ function is_bot($sistema){
         , 'MJ12bot'
         , 'wp_is_mobile'
         , 'SerendeputyBot'
-
-
         , '01h4x.com'
         , '404checker'
         , '404enemy'
@@ -259,7 +257,27 @@ function is_bot($sistema){
         , 'AiHitBot'
 
         , 'sqlmap'
-
+        , 'Aipbot'
+        , 'Alexibot'
+        , 'AllSubmitter'
+        , 'Alligator'
+        , 'AlphaBot'
+        , 'Anarchie'
+        , 'Anarchy'
+        , 'Anarchy99'
+        , 'Ankit'
+        , 'Anthill'
+        , 'Apexoo'
+        , 'Aspiegel'
+        , 'Asterias'
+        , 'Atomseobot'
+        , 'Attach'
+        , 'AwarioRssBot'
+        , 'BBBike'
+        , 'BDCbot'
+        , 'BDFetch'
+        , 'BackDoorBot'
+        , 'BackStreet'
 
         );
 

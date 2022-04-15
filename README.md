@@ -13,6 +13,27 @@ Using this server variable is not enough to block spambots and other kind of tra
 ## Update 2022-04-15
 
 * sqlmap (sql injection tool)
+* Aipbot
+* Alexibot
+* AllSubmitter
+* Alligator
+* AlphaBot
+* Anarchie
+* Anarchy
+* Anarchy99
+* Ankit
+* Anthill
+* Apexoo
+* Aspiegel
+* Asterias
+* Atomseobot
+* Attach
+* AwarioRssBot
+* BBBike
+* BDCbot
+* BDFetch
+* BackDoorBot
+* BackStreet
 
 ## Update 2022-04-08
 
