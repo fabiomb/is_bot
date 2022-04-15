@@ -10,6 +10,10 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+## Update 2022-04-15
+
+* sqlmap (sql injection tool)
+
 ## Update 2022-04-08
 
 * 01h4x.com

@@ -256,7 +256,10 @@ function is_bot($sistema){
         , 'Aboundex'
         , 'Acunetix'
         , 'AfD-Verbotsverfahren'
-        , 'AiHitBot'        
+        , 'AiHitBot'
+
+        , 'sqlmap'
+
 
         );
 
