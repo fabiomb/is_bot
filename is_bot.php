@@ -874,7 +874,7 @@ function is_bot($sistema){
         , 'xpymep1.exe'
         , 'zauba.io'
         , 'zgrab'
-        
+        , 'petalsearch'        
 
         );
 

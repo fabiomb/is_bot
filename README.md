@@ -9,6 +9,9 @@ use $_SERVER['HTTP_USER_AGENT'];
 Using this server variable is not enough to block spambots and other kind of traffic, is just for clearly defined user agents
 
 * * *
+## Update 2022-07-11
+
+* Petalsearch (https://webmaster.petalsearch.com/site/petalbot)
 
 ## Update 2022-04-15 (big update)
 
