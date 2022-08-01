@@ -875,6 +875,8 @@ function is_bot($sistema){
         , 'zauba.io'
         , 'zgrab'
         , 'petalsearch'        
+        , 'protopage'
+        , 'Miniflux'
 
         );
 

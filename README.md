@@ -9,6 +9,11 @@ use $_SERVER['HTTP_USER_AGENT'];
 Using this server variable is not enough to block spambots and other kind of traffic, is just for clearly defined user agents
 
 * * *
+## Update 2022-08-01
+
+* Protopage/3.0 (http://www.protopage.com)
+* Miniflux/2.0.37 (https://miniflux.app)
+
 ## Update 2022-07-11
 
 * Petalsearch (https://webmaster.petalsearch.com/site/petalbot)
