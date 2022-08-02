@@ -877,7 +877,8 @@ function is_bot($sistema){
         , 'petalsearch'        
         , 'protopage'
         , 'Miniflux'
-
+        , 'Feeder'
+       
         );
 
  // si lo encuentra devuelve true, si no, false

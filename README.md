@@ -13,6 +13,7 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * Protopage/3.0 (http://www.protopage.com)
 * Miniflux/2.0.37 (https://miniflux.app)
+* Feeder / 2.1.2(233)
 
 ## Update 2022-07-11
 
