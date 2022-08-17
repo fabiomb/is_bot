@@ -878,7 +878,8 @@ function is_bot($sistema){
         , 'protopage'
         , 'Miniflux'
         , 'Feeder'
-       
+        , 'Semanticbot' 
+        , 'ImageFetcher' 
         );
 
  // si lo encuentra devuelve true, si no, false

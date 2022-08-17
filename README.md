@@ -9,6 +9,12 @@ use $_SERVER['HTTP_USER_AGENT'];
 Using this server variable is not enough to block spambots and other kind of traffic, is just for clearly defined user agents
 
 * * *
+
+### Update 2022-08-17
+
+* Semanticbot/1.0; (http://sempi.tech/bot.html)
+* ImageFetcher/9.0; (http://images.weserv.nl/)
+
 ## Update 2022-08-01
 
 * Protopage/3.0 (http://www.protopage.com)
