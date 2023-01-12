@@ -10,6 +10,13 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+
+### Update 2023-01-12
+
+* Neevabot
+* Mastodon
+
+
 ### Update 2022-08-17
 
 * Semanticbot/1.0; (http://sempi.tech/bot.html)

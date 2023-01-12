@@ -879,7 +879,13 @@ function is_bot($sistema){
         , 'Miniflux'
         , 'Feeder'
         , 'Semanticbot' 
-        , 'ImageFetcher' 
+        , 'ImageFetcher'
+        , 'Mastodon' 
+        , 'Neevabot'
+
+
+
+
         );
 
  // si lo encuentra devuelve true, si no, false
