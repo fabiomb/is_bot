@@ -10,6 +10,11 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+### Update 2023-02-02
+
+* Pleroma (Mastodon)
+* Akkoma (Mastodon)
+* koyu.space
 
 ### Update 2023-01-12
 

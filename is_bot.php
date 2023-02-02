@@ -882,7 +882,10 @@ function is_bot($sistema){
         , 'ImageFetcher'
         , 'Mastodon' 
         , 'Neevabot'
-
+        , 'Pleroma'
+        , 'Akkoma'
+        , 'koyu.space'
+        
 
 
 
