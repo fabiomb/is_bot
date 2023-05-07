@@ -10,6 +10,17 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+### Update 2023-05-07
+
+* Embedly
+* Mjukisbyxor    
+* Giant Rhubarb
+* GozleBot
+* Friendica
+* WhatsApp
+* XenForo  
+* Yeti
+
 ### Update 2023-02-02
 
 * Pleroma (Mastodon)

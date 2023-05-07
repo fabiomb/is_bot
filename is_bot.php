@@ -885,9 +885,14 @@ function is_bot($sistema){
         , 'Pleroma'
         , 'Akkoma'
         , 'koyu.space'
-        
-
-
+        , 'Embedly'
+        , 'Mjukisbyxor'        
+        , 'Giant Rhubarb'
+        , 'GozleBot'
+        , 'Friendica'
+        , 'WhatsApp'
+        , 'XenForo'        
+        , 'Yeti'
 
         );
 
