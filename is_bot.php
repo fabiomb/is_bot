@@ -893,6 +893,7 @@ function is_bot($sistema){
         , 'WhatsApp'
         , 'XenForo'        
         , 'Yeti'
+        , 'MuckRack'
 
         );
 

@@ -20,6 +20,7 @@ Using this server variable is not enough to block spambots and other kind of tra
 * WhatsApp
 * XenForo  
 * Yeti
+* MuckRack
 
 ### Update 2023-02-02
 
