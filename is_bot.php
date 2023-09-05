@@ -894,7 +894,14 @@ function is_bot($sistema){
         , 'XenForo'        
         , 'Yeti'
         , 'MuckRack'
-
+        , 'PhxBot'
+        , 'Bytespider'
+        , 'GPTBot'
+        , 'SummalyBot'
+        , 'LinkedInBot'
+        , 'SpiderWeb'
+        , 'SpaceCowboys'
+        , 'LCC'
         );
 
  // si lo encuentra devuelve true, si no, false

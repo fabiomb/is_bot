@@ -10,6 +10,17 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+### Update 2023-09-05
+
+* PhxBot
+* Bytespider
+* GPTBot
+* SummalyBot
+* LinkedInBot
+* SpiderWeb
+* SpaceCowboys
+* LCC
+
 ### Update 2023-05-07
 
 * Embedly
