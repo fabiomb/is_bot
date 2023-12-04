@@ -848,6 +848,7 @@ function is_bot($sistema){
         , 'SpiderWeb'
         , 'SpaceCowboys'
         , 'LCC'
+        , 'Paqlebot'
         );
 
  // si lo encuentra devuelve true, si no, false

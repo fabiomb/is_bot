@@ -10,6 +10,10 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+### Update 2023-12-04
+
+* Paqlebot/2.0; +http://www.paqle.dk/about/paqlebot
+
 ### Update 2023-09-05
 
 * PhxBot
