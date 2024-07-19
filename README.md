@@ -10,6 +10,11 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+### Update 2024-07-19
+
+* Owler (ows.eu/owler)
+* ImagesiftBot; +imagesift.com
+
 ### Update 2023-12-04
 
 * Paqlebot/2.0; +http://www.paqle.dk/about/paqlebot

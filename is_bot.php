@@ -849,6 +849,8 @@ function is_bot($sistema){
         , 'SpaceCowboys'
         , 'LCC'
         , 'Paqlebot'
+        , 'imagesift'
+        , 'ows.eu'
         );
 
  // si lo encuentra devuelve true, si no, false
