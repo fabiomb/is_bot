@@ -12,36 +12,36 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 ### Update 2024-07-21
 
-SeznamBot
-SeznamHomepage
-ChatGPT
-Google-Extended
-GoogleOther
-anthropic
-Claude-Web
-cohere-ai
-Diffbot
-FacebookBot
-ImagesiftBot
-PerplexityBot
-Omigili
-yacybot
-RepoLookoutBot
-StractBot
-IABot
-rss-is-dead
-Slackbot
-Storebot-Google
-Google-InspectionTool
-APIs-Google
-AdsBot-Google
-Google-Safety
-WellKnownBot
-ArchiveBot
-Sogou
-iaskspider
-Qwantbot
-keys-so-bot
+* SeznamBot
+* SeznamHomepage
+* ChatGPT
+* Google-Extended
+* GoogleOther
+* anthropic
+* Claude-Web
+* cohere-ai
+* Diffbot
+* FacebookBot
+* ImagesiftBot
+* PerplexityBot
+* Omigili
+* yacybot
+* RepoLookoutBot
+* StractBot
+* IABot
+* rss-is-dead
+* Slackbot
+* Storebot-Google
+* Google-InspectionTool
+* APIs-Google
+* AdsBot-Google
+* Google-Safety
+* WellKnownBot
+* ArchiveBot
+* Sogou
+* iaskspider
+* Qwantbot
+* keys-so-bot
 
 removed "not" to avoid false detections
 
