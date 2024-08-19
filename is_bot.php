@@ -880,6 +880,8 @@ function is_bot($sistema){
         , 'iaskspider'
         , 'Qwantbot'
         , 'keys-so-bot'
+        , 'ev-crawler'
+        , 'OAI-SearchBot'
         );
 
  // si lo encuentra devuelve true, si no, false

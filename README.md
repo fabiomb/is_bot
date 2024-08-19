@@ -10,6 +10,11 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+### Update 2024-08-19
+
+* ev-crawler
+* OAI-SearchBot
+
 ### Update 2024-07-21
 
 * SeznamBot
