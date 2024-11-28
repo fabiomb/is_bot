@@ -882,6 +882,8 @@ function is_bot($sistema){
         , 'keys-so-bot'
         , 'ev-crawler'
         , 'OAI-SearchBot'
+        , 'InternetMeasurement'
+        , 'meta-externalagent'
         );
 
  // si lo encuentra devuelve true, si no, false
