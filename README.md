@@ -10,6 +10,10 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+## Update 2024-12-03
+
+* Fixed some duplicates
+
 ### Update 2024-11-28 
 * meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)
 * InternetMeasurement/1.0; +https://internet-measurement.com/

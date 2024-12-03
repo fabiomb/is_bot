@@ -3,7 +3,7 @@
 function is_bot($sistema){
  // bots de buscadores
     $bots = array(
-         'Googlebot'
+        'Googlebot'
         , 'Baiduspider'
         , 'ia_archiver'
         , 'R6_FeedFetcher'
@@ -74,7 +74,6 @@ function is_bot($sistema){
         , 'Sleuth'
         , 'Abonti'
         , '(BOT for JCE)'
-        , 'Baidu'
         , 'Tiny Tiny RSS'
         , 'newsblur'
         , 'updown_tester'
@@ -90,7 +89,6 @@ function is_bot($sistema){
         , 'terrykyleseoagency.com'
         , 'CommonCrawler Node'
         , 'AdlesseBot'
-        , 'metauri.com'
         , 'libwww-perl'
         , 'rogerbot-crawler'
         , 'ltx71'
@@ -106,7 +104,6 @@ function is_bot($sistema){
         , 'semrush.com'
         , 'feedbot'
         , 'CommonCrawler'
-        , 'MetaURI'
         , 'ibwww-perl'
         , 'rogerbot'
         , 'MegaIndex'
@@ -479,7 +476,7 @@ function is_bot($sistema){
         , 'Mb2345Browser'
         , 'MeanPath Bot'
         , 'Meanpathbot'
-        , 'Metauri'
+        , 'metauri'
         , 'MicroMessenger'
         , 'Microsoft Data Access'
         , 'Microsoft URL Control'
