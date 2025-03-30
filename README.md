@@ -10,6 +10,11 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+
+## Update 2025-03-30
+
+* GuzzleHttp (thanks guillaume-uH57J9)
+
 ## Update 2024-12-03
 
 * Fixed some duplicates

@@ -881,6 +881,7 @@ function is_bot($sistema){
         , 'OAI-SearchBot'
         , 'InternetMeasurement'
         , 'meta-externalagent'
+        , 'GuzzleHttp'
         );
 
  // si lo encuentra devuelve true, si no, false
