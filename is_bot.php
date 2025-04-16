@@ -882,6 +882,10 @@ function is_bot($sistema){
         , 'InternetMeasurement'
         , 'meta-externalagent'
         , 'GuzzleHttp'
+        , 'AwarioBot'
+        , 'NetworkingExtension'
+        , 'ApacheBench'
+
         );
 
  // si lo encuentra devuelve true, si no, false

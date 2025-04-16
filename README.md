@@ -11,6 +11,12 @@ Using this server variable is not enough to block spambots and other kind of tra
 * * *
 
 
+## Update 2025-04-16
+
+* AwarioBot +https://awario.com/bots.html
+* NetworkingExtension
+* ApacheBench
+
 ## Update 2025-03-30
 
 * GuzzleHttp (thanks guillaume-uH57J9)
