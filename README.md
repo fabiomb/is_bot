@@ -2,14 +2,21 @@
 
 Simple PHP function to detect search engines bots and crawlers
 
-it compares the PHP User Agent with a list of common spiders from search engines, more than 200 bots, spiders and crawlers
+It compares the PHP User Agent with a list of common spiders from search engines, more than 200 bots, spiders and crawlers who are honest and say what they are in the User Agent
 
 use $_SERVER['HTTP_USER_AGENT'];
 
-Using this server variable is not enough to block spambots and other kind of traffic, is just for clearly defined user agents
+Using this server variable is not enough to block spambots and other kind of traffic, is just for clearly defined user agents, if you are attacked by a storm of AI bots, you'll need a different approach like Cloudflare or block IP ranges of VPS
 
 * * *
 
+## Update 2025-07-14
+
+* AdsBot-Google-Mobile
+* FreshRSS
+* SmartReader
+* Dazzle BlueSky
+* http.rb
 
 ## Update 2025-04-16
 

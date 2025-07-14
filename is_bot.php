@@ -885,6 +885,11 @@ function is_bot($sistema){
         , 'AwarioBot'
         , 'NetworkingExtension'
         , 'ApacheBench'
+        , 'AdsBot-Google-Mobile'
+        , 'FreshRSS'
+        , 'SmartReader'
+        , 'Dazzle BlueSky'
+        , 'http.rb'
 
         );
 
