@@ -10,6 +10,12 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+## Update 2025-08-15
+
+* Bluesky Cardyb
+* TerraCotta
+* IbouBot
+
 ## Update 2025-07-14
 
 * AdsBot-Google-Mobile

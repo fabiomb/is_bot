@@ -888,9 +888,11 @@ function is_bot($sistema){
         , 'AdsBot-Google-Mobile'
         , 'FreshRSS'
         , 'SmartReader'
-        , 'Dazzle BlueSky'
         , 'http.rb'
-
+        , 'Dazzle BlueSky'
+        , 'Bluesky Cardyb'
+        , 'TerraCotta'
+        , 'IbouBot'
         );
 
  // si lo encuentra devuelve true, si no, false
