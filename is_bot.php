@@ -893,6 +893,13 @@ function is_bot($sistema){
         , 'Bluesky Cardyb'
         , 'TerraCotta'
         , 'IbouBot'
+        , 'BUbiNG'
+        , 'WPMU DEV'
+        , 'sfFeedReader'
+        , 'TikTokSpider'
+        , 'fedistatsCrawler'
+        , 'SkyWatch'
+        , 'Instapaper'
         );
 
  // si lo encuentra devuelve true, si no, false

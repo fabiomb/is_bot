@@ -10,6 +10,15 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+## Update 2026-01-13
+* BUbiNG
+* WPMU DEV Broken Link Checker Local Engine
+* sfFeedReader
+* TikTokSpider
+* fedistatsCrawler
+* SkyWatch
+* Instapaper
+
 ## Update 2025-08-15
 
 * Bluesky Cardyb
