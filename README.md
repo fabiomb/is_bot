@@ -10,6 +10,12 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+## Update 2026-03-14
+
+* Amazing-SearchBot
+* leakix.net
+* ShapBot
+
 ## Update 2026-01-13
 * BUbiNG
 * WPMU DEV Broken Link Checker Local Engine

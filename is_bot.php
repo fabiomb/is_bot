@@ -900,6 +900,9 @@ function is_bot($sistema){
         , 'fedistatsCrawler'
         , 'SkyWatch'
         , 'Instapaper'
+        , 'Amazing-SearchBot'
+        , 'leakix.net'
+        , 'ShapBot'
         );
 
  // si lo encuentra devuelve true, si no, false
