@@ -903,6 +903,8 @@ function is_bot($sistema){
         , 'Amazing-SearchBot'
         , 'leakix.net'
         , 'ShapBot'
+        , 'Aranet'
+        , 'BrokenLinksBot'
         );
 
  // si lo encuentra devuelve true, si no, false
