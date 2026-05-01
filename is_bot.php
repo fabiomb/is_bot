@@ -905,6 +905,9 @@ function is_bot($sistema){
         , 'ShapBot'
         , 'Aranet'
         , 'BrokenLinksBot'
+        , 'xAI-SearchBot'
+        , 'Perplexity-User'
+        , 'Claude-SearchBot'
         );
 
  // si lo encuentra devuelve true, si no, false

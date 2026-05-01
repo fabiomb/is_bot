@@ -10,6 +10,12 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+## Update 2026-05-01
+
+* xAI-SearchBot
+* Perplexity-User
+* Claude-SearchBot
+
 ## Update 2026-04-14 
 
 * Aranet-SearchBot
