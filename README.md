@@ -10,6 +10,13 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+## Update 2026-05-15
+
+* GoogleOther-Image
+* MistralBot
+* Timpibot
+* Google-CloudVertexBoT
+
 ## Update 2026-05-01
 
 * xAI-SearchBot

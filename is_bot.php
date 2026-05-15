@@ -908,6 +908,10 @@ function is_bot($sistema){
         , 'xAI-SearchBot'
         , 'Perplexity-User'
         , 'Claude-SearchBot'
+        , 'GoogleOther-Image'
+        , 'MistralBot'
+        , 'Timpibot'
+        , 'Google-CloudVertexBot'
         );
 
  // si lo encuentra devuelve true, si no, false
