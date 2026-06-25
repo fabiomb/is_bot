@@ -912,6 +912,11 @@ function is_bot($sistema){
         , 'MistralBot'
         , 'Timpibot'
         , 'Google-CloudVertexBot'
+        , 'SleepBot'
+        , 'Backlinkfetch'
+        , 'PrivacyBrowser'
+        , 'meta-webindexer'
+        , 'CT-WP-Scanner'
         );
 
  // si lo encuentra devuelve true, si no, false

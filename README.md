@@ -10,6 +10,14 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+## Update 2026-06-25
+
+* SleepBot
+* Backlinkfetch
+* PrivacyBrowser
+* meta-webindexer
+* CT-WP-Scanner
+
 ## Update 2026-05-15
 
 * GoogleOther-Image
