@@ -917,6 +917,7 @@ function is_bot($sistema){
         , 'PrivacyBrowser'
         , 'meta-webindexer'
         , 'CT-WP-Scanner'
+        , 'LinkupBot'
         );
 
  // si lo encuentra devuelve true, si no, false
