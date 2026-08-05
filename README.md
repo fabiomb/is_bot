@@ -10,6 +10,10 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+## Update 2026-08-05
+
+* LyonlBot
+
 ## Update 2026-08-01
 
 * LinkupBot

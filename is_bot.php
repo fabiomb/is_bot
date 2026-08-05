@@ -918,6 +918,7 @@ function is_bot($sistema){
         , 'meta-webindexer'
         , 'CT-WP-Scanner'
         , 'LinkupBot'
+        , 'LyonlBot'
         );
 
  // si lo encuentra devuelve true, si no, false
