@@ -919,6 +919,9 @@ function is_bot($sistema){
         , 'CT-WP-Scanner'
         , 'LinkupBot'
         , 'LyonlBot'
+        , 'RetroDocumentResearch'
+        , 'KeenableBot'
+        , 'Reflectionbot'
         );
 
  // si lo encuentra devuelve true, si no, false

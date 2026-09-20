@@ -10,6 +10,13 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+## Update 2026-09-20
+
+* RetroDocumentResearch
+* KeenableBot
+* Reflectionbot
+
+
 ## Update 2026-08-05
 
 * LyonlBot
