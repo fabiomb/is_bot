@@ -922,6 +922,7 @@ function is_bot($sistema){
         , 'RetroDocumentResearch'
         , 'KeenableBot'
         , 'Reflectionbot'
+        , 'TalarionSearchBot'
         );
 
  // si lo encuentra devuelve true, si no, false

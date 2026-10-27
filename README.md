@@ -10,6 +10,10 @@ Using this server variable is not enough to block spambots and other kind of tra
 
 * * *
 
+## Update 2026-10-27
+
+* TalarionSearchBot
+
 ## Update 2026-09-20
 
 * RetroDocumentResearch
